@@ -24,3 +24,8 @@ Desarrollador de Software enfocado en **Java (Spring Boot)** y **TypeScript (Ang
 ![.NET](https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
 ![Git](https://img.shields.io/badge/git-%23F05032.svg?style=for-the-badge&logo=git&logoColor=white)
 ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
+![Keycloak](https://img.shields.io/badge/Keycloak-E24B1C?style=for-the-badge&logo=keycloak&logoColor=white)
+![Redis](https://img.shields.io/badge/redis-%23DD0031.svg?style=for-the-badge&logo=redis&logoColor=white)
+![Render](https://img.shields.io/badge/Render-%2346E3B7.svg?style=for-the-badge&logo=render&logoColor=white)
+![Netlify](https://img.shields.io/badge/Netlify-%2300C7B7.svg?style=for-the-badge&logo=netlify&logoColor=white)
+![Koyeb](https://img.shields.io/badge/Koyeb-%23121212.svg?style=for-the-badge&logo=koyeb&logoColor=white)
