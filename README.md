@@ -4,7 +4,7 @@ Desarrollador de Software enfocado en **Java (Spring Boot)** y **TypeScript (Ang
 
 ---
 
-- **Arquitectura:** Sistemas estructurados bajo Arquitectura Hexagonal y principios SOLID, KISS, DRY, YAGNI.
+- **Arquitectura:** Sistemas estructurados bajo Arquitectura Hexagonal y de Microservicios, bajo principios SOLID, KISS, DRY, YAGNI.
 - **Seguridad y Control:** Implementación de flujos de identidad con Keycloak SSO (SPI personalizado, SLO), control de concurrencia y fraude con Rate Limiting (Redis), Idempotencia y Cloudflare Captcha.
 
 ---
