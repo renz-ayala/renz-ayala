@@ -1,31 +1,50 @@
 # Renz Ayala
 
-Desarrollador de Software enfocado en **Java (Spring Boot)** y **TypeScript (Angular)**.
+> **Software Engineer** centrado en desarrollo Backend con **Java / Spring Boot** y Frontend con **TypeScript / Angular**.
+
+Construyo software enfocado en **arquitecturas limpias**, **seguridad de APIs** y **resiliencia del sistema**. Experiencia aplicando patrones de diseño y rendimiento tanto en entornos web empresariales como en scripts de bajo consumo.
 
 ---
 
-- **Arquitectura:** Sistemas estructurados bajo Arquitectura Hexagonal y de Microservicios, bajo principios SOLID, KISS, DRY, YAGNI.
-- **Seguridad y Control:** Implementación de flujos de identidad con Keycloak SSO (SPI personalizado, SLO), control de concurrencia y fraude con Rate Limiting (Redis), Idempotencia y Cloudflare Captcha.
+### 🛠️ Enfoque Técnico & Arquitectura
+
+* **Arquitectura de Software:** Sistemas estructurados bajo **Arquitectura Hexagonal**, **Microservicios** y principios **SOLID / KISS / DRY / YAGNI**.
+* **Seguridad & Gestión de Identidad:** Implementación de SSO con **Keycloak** mediante SPIs personalizados desarrollados en Java, flujos OIDC/OAuth2 y Single Sign-Out (SLO).
+* **Resiliencia & Control de Tráfico:** Protección de APIs mediante **Rate Limiting** distribuido con **Redis**, garantizando **idempotencia** y mitigando tráfico malicioso con **Cloudflare Captcha / Turnstile**.
+* **Persistencia & Rendimiento:** Manejo de bases de datos relacionales (**Oracle SQL**, **PostgreSQL**), optimización de consultas, pruebas de carga con **Apache JMeter** y containerización con **Docker**.
 
 ---
 
-### Tecnologías
+### 💻 Stack Tecnológico
 
-#### Especialidad
-![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
-![Spring Boot](https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white)
-![Angular](https://img.shields.io/badge/angular-%23DD0031.svg?style=for-the-badge&logo=angular&logoColor=white)
-![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
+#### Core / Principal
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring&logoColor=white)
+![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
 ![Oracle](https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
 
-#### Conocimientos complementarios
-![PostgreSQL](https://img.shields.io/badge/postgresql-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
-![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white)
-![.NET](https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
-![Git](https://img.shields.io/badge/git-%23F05032.svg?style=for-the-badge&logo=git&logoColor=white)
-![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
+#### Infraestructura & Herramientas
+![Docker](https://img.shields.io/badge/Docker-0db7ed?style=for-the-badge&logo=docker&logoColor=white)
 ![Keycloak](https://img.shields.io/badge/Keycloak-E24B1C?style=for-the-badge&logo=keycloak&logoColor=white)
-![Redis](https://img.shields.io/badge/redis-%23DD0031.svg?style=for-the-badge&logo=redis&logoColor=white)
-![Render](https://img.shields.io/badge/Render-%2346E3B7.svg?style=for-the-badge&logo=render&logoColor=white)
-![Netlify](https://img.shields.io/badge/Netlify-%2300C7B7.svg?style=for-the-badge&logo=netlify&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-DD0031?style=for-the-badge&logo=redis&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+
+#### Herramientas & Ecosistema Secundario
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![NestJS](https://img.shields.io/badge/NestJS-E0234E?style=for-the-badge&logo=nestjs&logoColor=white)
+![Jaspersoft](https://img.shields.io/badge/Jaspersoft-0072C6?style=for-the-badge&logo=tibco&logoColor=white)
+![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp&logoColor=white)
+![.NET](https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
 ![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white)
+
+---
+
+### 📫 Contacto
+
+* **LinkedIn:** [https://linkedin.com](https://www.linkedin.com/in/renz-ayala-725b92351/)
+* **Email:** renzayala98@gmail.com
