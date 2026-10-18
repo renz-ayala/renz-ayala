@@ -50,7 +50,7 @@ Construyo software enfocado en **arquitecturas limpias**, **seguridad de APIs** 
 
 ---
 
-### 📫 Contacto
+### Contacto
 
 * **LinkedIn:** [https://linkedin.com](https://www.linkedin.com/in/renz-ayala-725b92351/)
 * **Email:** renzayala98@gmail.com
