@@ -6,7 +6,7 @@ Construyo software enfocado en **arquitecturas limpias**, **seguridad de APIs** 
 
 ---
 
-### 🛠️ Enfoque Técnico & Arquitectura
+### Enfoque Técnico & Arquitectura
 
 * **Arquitectura de Software:** Sistemas estructurados bajo **Arquitectura Hexagonal**, **Microservicios** y principios **SOLID / KISS / DRY / YAGNI**.
 * **Seguridad & Gestión de Identidad:** Implementación de SSO con **Keycloak** mediante SPIs personalizados desarrollados en Java, flujos OIDC/OAuth2 y Single Sign-Out (SLO).
@@ -15,7 +15,7 @@ Construyo software enfocado en **arquitecturas limpias**, **seguridad de APIs** 
 
 ---
 
-### 💻 Stack Tecnológico
+### Stack Tecnológico
 
 #### Core / Principal
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
